@@ -19,4 +19,4 @@ You can define
 ## Run
 press "🎬 Start Simulation to generate your idivitual Cellular Automaton" sequence.
 
-![Demo](img/cellular_automaton_demo_video.mov)
+![Demo](img/cellular_automaton_demo_video.gif)
