@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "cellular-automaton"
+version = "0.1.0"
+description = ""
+authors = ["Maik Preßler <github@gelbzucht.de>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.29.0"
+numpy = "^1.26.2"
+matplotlib = "^3.8.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
